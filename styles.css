@@ -40,6 +40,7 @@ nav .menu li a:hover {
     border-radius: 3px;
 }
 
+
 section {
     padding: 60px;
     text-align: center;
@@ -86,6 +87,15 @@ ul li {
 
 #contato {
     background-color: #f7f7f7;
+    
+    padding: 60px;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
 }
 
 /* Estilização para imagens */
